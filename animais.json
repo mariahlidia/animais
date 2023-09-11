@@ -1,0 +1,218 @@
+{
+  "animais": [
+    {
+      "nome": "Leão",
+      "habitat": "Savana",
+      "dieta": "Carnívoro",
+      "expectativa_de_vida": "12-15 anos",
+      "curiosidades": [
+        "O leão é conhecido como o 'Rei da Selva'.",
+        "Eles vivem em grupos chamados de 'coalizões'.",
+        "Leões machos têm uma juba distintiva."
+      ],
+      "imagem": "url_da_imagem_do_leao.jpg"
+    },
+    {
+      "nome": "Tigre",
+      "habitat": "Floresta tropical",
+      "dieta": "Carnívoro",
+      "expectativa_de_vida": "10-15 anos",
+      "curiosidades": [
+        "O tigre é o maior felino do mundo.",
+        "Eles são conhecidos por suas listras distintivas.",
+        "Tigres são excelentes nadadores."
+      ],
+      "imagem": "url_da_imagem_do_tigre.jpg"
+    },
+    {
+      "nome": "Elefante",
+      "habitat": "Floresta e Savana",
+      "dieta": "Herbívoro",
+      "expectativa_de_vida": "60-70 anos",
+      "curiosidades": [
+        "Elefantes têm uma memória excepcional.",
+        "Eles são os maiores animais terrestres.",
+        "Elefantes vivem em grupos familiares chamados de 'manadas'."
+      ],
+      "imagem": "url_da_imagem_do_elefante.jpg"
+    },
+    {
+      "nome": "Girafa",
+      "habitat": "Savanas e florestas",
+      "dieta": "Herbívoro",
+      "expectativa_de_vida": "20-25 anos",
+      "curiosidades": [
+        "A girafa é o animal terrestre mais alto do mundo.",
+        "Elas têm pernas longas e pescoço comprido para alcançar folhas nas árvores.",
+        "As girafas vivem em grupos chamados de 'manadas'."
+      ],
+      "imagem": "url_da_imagem_da_girafa.jpg"
+    },
+    {
+      "nome": "Panda Gigante",
+      "habitat": "Florestas de bambu",
+      "dieta": "Herbívoro",
+      "expectativa_de_vida": "20-30 anos",
+      "curiosidades": [
+        "Os pandas gigantes são conhecidos por sua pelagem preta e branca.",
+        "São uma espécie em perigo de extinção.",
+        "Sua dieta consiste principalmente de bambu."
+      ],
+      "imagem": "url_da_imagem_do_panda.jpg"
+    }
+  ],
+  "repteis": [
+    {
+      "nome": "Tartaruga",
+      "habitat": "Oceanos",
+      "dieta": "Omnívoro",
+      "expectativa_de_vida": "80-100 anos",
+      "curiosidades": [
+        "Tartarugas têm cascos que as protegem.",
+        "Elas podem viver por muitas décadas.",
+        "Tartarugas marinhas fazem migrações longas."
+      ],
+      "imagem": "url_da_imagem_da_tartaruga.jpg"
+    },
+    {
+      "nome": "Cobra",
+      "habitat": "Diversos",
+      "dieta": "Carnívoro",
+      "expectativa_de_vida": "15-25 anos",
+      "curiosidades": [
+        "Cobras são animais rastejantes sem patas.",
+        "Algumas cobras são venenosas.",
+        "Elas trocam de pele regularmente."
+      ],
+      "imagem": "url_da_imagem_da_cobra.jpg"
+    },
+    {
+      "nome": "Lagarto",
+      "habitat": "Desertos e florestas",
+      "dieta": "Omnívoro",
+      "expectativa_de_vida": "5-15 anos",
+      "curiosidades": [
+        "Lagartos têm a capacidade de regenerar caudas perdidas.",
+        "Eles podem mudar de cor para se camuflar.",
+        "Alguns lagartos são excelentes escaladores."
+      ],
+      "imagem": "url_da_imagem_do_lagarto.jpg"
+    }
+  ],
+  "anfibios": [
+    {
+      "nome": "Sapo",
+      "habitat": "Florestas e lagoas",
+      "dieta": "Insetívoro",
+      "expectativa_de_vida": "10-15 anos",
+      "curiosidades": [
+        "Sapos têm pele áspera e úmida.",
+        "Eles são conhecidos por seu canto noturno.",
+        "Sapos passam parte de suas vidas na água e parte em terra."
+      ],
+      "imagem": "url_da_imagem_do_sapo.jpg"
+    },
+    {
+      "nome": "Salamandra",
+      "habitat": "Florestas úmidas",
+      "dieta": "Carnívoro",
+      "expectativa_de_vida": "10-20 anos",
+      "curiosidades": [
+        "Salamandras têm uma pele fina e lisa.",
+        "Elas podem regenerar membros perdidos.",
+        "Algumas salamandras são venenosas."
+      ],
+      "imagem": "url_da_imagem_da_salamandra.jpg"
+    },
+    {
+      "nome": "Axolote",
+      "habitat": "Lagos e rios no México",
+      "dieta": "Carnívoro",
+      "expectativa_de_vida": "10-15 anos",
+      "curiosidades": [
+        "O axolote é um tipo de salamandra.",
+        "Eles têm uma aparência única com barbatanas externas.",
+        "São conhecidos por sua capacidade de regeneração extraordinária."
+      ],
+      "imagem": "url_da_imagem_do_axolote.jpg"
+    }
+  ],
+  "peixes": [
+    {
+      "nome": "Betta",
+      "habitat": "Água doce",
+      "dieta": "Carnívoro",
+      "expectativa_de_vida": "2-4 anos",
+      "curiosidades": [
+        "Os Bettas são peixes ornamentais populares devido às suas cores vibrantes.",
+        "Eles são conhecidos por suas lutas agressivas entre machos.",
+        "Bettas respiram oxigênio da superfície da água usando um órgão especial chamado labirinto."
+      ],
+      "imagem": "url_da_imagem_do_betta.jpg"
+    },
+    {
+      "nome": "Tubarão Martelo",
+      "habitat":
+
+ "Oceanos tropicais",
+      "dieta": "Carnívoro",
+      "expectativa_de_vida": "20-30 anos",
+      "curiosidades": [
+        "Os tubarões martelo têm uma cabeça distinta em forma de martelo.",
+        "Eles são excelentes caçadores e nadadores ágeis.",
+        "Esses tubarões são frequentemente vistos em águas tropicais ao redor do mundo."
+      ],
+      "imagem": "url_da_imagem_do_tubarao_martelo.jpg"
+    },
+    {
+      "nome": "Peixe-Palhaço",
+      "habitat": "Recifes de coral",
+      "dieta": "Omnívoro",
+      "expectativa_de_vida": "6-10 anos",
+      "curiosidades": [
+        "Os peixes-palhaço são conhecidos por viverem em simbiose com anêmonas-do-mar.",
+        "Eles são famosos por sua aparência colorida e listrada.",
+        "Esses peixes são protagonistas no filme de animação 'Procurando Nemo'."
+      ],
+      "imagem": "url_da_imagem_do_peixe_palhaco.jpg"
+    }
+  ],
+  "aves": [
+    {
+      "nome": "Águia-careca",
+      "habitat": "América do Norte",
+      "dieta": "Carnívoro",
+      "expectativa_de_vida": "20-30 anos",
+      "curiosidades": [
+        "A águia-careca é a ave nacional dos Estados Unidos.",
+        "Elas são conhecidas por suas garras afiadas e visão aguçada.",
+        "Essas aves são símbolos de liberdade e poder."
+      ],
+      "imagem": "url_da_imagem_da_aguia_careca.jpg"
+    },
+    {
+      "nome": "Pinguim-imperador",
+      "habitat": "Antártica",
+      "dieta": "Carnívoro",
+      "expectativa_de_vida": "20-40 anos",
+      "curiosidades": [
+        "Os pinguins-imperadores são as maiores espécies de pinguins.",
+        "Eles são conhecidos por suas caminhadas longas para se alimentar no oceano.",
+        "Esses pinguins têm uma vida social complexa e vivem em grandes colônias."
+      ],
+      "imagem": "url_da_imagem_do_pinguim_imperador.jpg"
+    },
+    {
+      "nome": "Tucano",
+      "habitat": "Florestas tropicais da América do Sul",
+      "dieta": "Frugívoro",
+      "expectativa_de_vida": "15-20 anos",
+      "curiosidades": [
+        "Tucanos têm bicos grandes e coloridos.",
+        "Eles se alimentam principalmente de frutas e pequenos insetos.",
+        "São conhecidos por sua vocalização distintiva e chamativa."
+      ],
+      "imagem": "url_da_imagem_do_tucano.jpg"
+    }
+  ]
+}
