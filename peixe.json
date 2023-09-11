@@ -1,0 +1,65 @@
+{
+    "peixes": [
+      {
+        "nome": "Betta",
+        "habitat": "Água doce",
+        "dieta": "Carnívoro",
+        "expectativa_de_vida": "2-4 anos",
+        "curiosidades": [
+          "Os Bettas são peixes ornamentais populares devido às suas cores vibrantes.",
+          "Eles são conhecidos por suas lutas agressivas entre machos.",
+          "Bettas respiram oxigênio da superfície da água usando um órgão especial chamado labirinto."
+        ],
+        "imagem": "url_da_imagem_do_betta.jpg"
+      },
+      {
+        "nome": "Tubarão Martelo",
+        "habitat": "Oceanos tropicais",
+        "dieta": "Carnívoro",
+        "expectativa_de_vida": "20-30 anos",
+        "curiosidades": [
+          "Os tubarões martelo têm uma cabeça distinta em forma de martelo.",
+          "Eles são excelentes caçadores e nadadores ágeis.",
+          "Esses tubarões são frequentemente vistos em águas tropicais ao redor do mundo."
+        ],
+        "imagem": "url_da_imagem_do_tubarao_martelo.jpg"
+      },
+      {
+        "nome": "Peixe-Palhaço",
+        "habitat": "Recifes de coral",
+        "dieta": "Omnívoro",
+        "expectativa_de_vida": "6-10 anos",
+        "curiosidades": [
+          "Os peixes-palhaço são conhecidos por viverem em simbiose com anêmonas-do-mar.",
+          "Eles são famosos por sua aparência colorida e listrada.",
+          "Esses peixes são protagonistas no filme de animação 'Procurando Nemo'."
+        ],
+        "imagem": "url_da_imagem_do_peixe_palhaco.jpg"
+      },
+      {
+        "nome": "Salmão",
+        "habitat": "Rios e oceanos",
+        "dieta": "Omnívoro",
+        "expectativa_de_vida": "3-5 anos",
+        "curiosidades": [
+          "Os salmões são conhecidos por suas migrações épicas para desovar.",
+          "Eles têm carne rosa e são apreciados na culinária.",
+          "Os salmões podem pular cachoeiras para alcançar áreas de reprodução."
+        ],
+        "imagem": "url_da_imagem_do_salmao.jpg"
+      },
+      {
+        "nome": "Peixe-leão",
+        "habitat": "Recifes de coral",
+        "dieta": "Carnívoro",
+        "expectativa_de_vida": "10-15 anos",
+        "curiosidades": [
+          "Os peixes-leão são invasores em alguns ecossistemas marinhos.",
+          "Eles têm espinhos venenosos em suas barbatanas.",
+          "São conhecidos por sua beleza, mas representam uma ameaça à biodiversidade local."
+        ],
+        "imagem": "url_da_imagem_do_peixe_leao.jpg"
+      }
+    ]
+  }
+  

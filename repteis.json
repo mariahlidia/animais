@@ -1,0 +1,66 @@
+{
+    "repteis": [
+      {
+        "nome": "Tartaruga",
+        "habitat": "Oceanos",
+        "dieta": "Omnívoro",
+        "expectativa_de_vida": "80-100 anos",
+        "curiosidades": [
+          "Tartarugas têm cascos que as protegem.",
+          "Elas podem viver por muitas décadas.",
+          "Tartarugas marinhas fazem migrações longas."
+        ],
+        "imagem": "url_da_imagem_da_tartaruga.jpg"
+      },
+      {
+        "nome": "Cobra",
+        "habitat": "Diversos",
+        "dieta": "Carnívoro",
+        "expectativa_de_vida": "15-25 anos",
+        "curiosidades": [
+          "Cobras são animais rastejantes sem patas.",
+          "Algumas cobras são venenosas.",
+          "Elas trocam de pele regularmente."
+        ],
+        "imagem": "url_da_imagem_da_cobra.jpg"
+      },
+      {
+        "nome": "Lagarto",
+        "habitat": "Desertos e florestas",
+        "dieta": "Omnívoro",
+        "expectativa_de_vida": "5-15 anos",
+        "curiosidades": [
+          "Lagartos têm a capacidade de regenerar caudas perdidas.",
+          "Eles podem mudar de cor para se camuflar.",
+          "Alguns lagartos são excelentes escaladores."
+        ],
+        "imagem": "url_da_imagem_do_lagarto.jpg"
+      },
+      {
+        "nome": "Dragão-de-Komodo",
+        "habitat": "Ilha de Komodo, Indonésia",
+        "dieta": "Carnívoro",
+        "expectativa_de_vida": "30-50 anos",
+        "curiosidades": [
+          "O Dragão-de-Komodo é o maior lagarto do mundo.",
+          "Eles têm uma mordida poderosa com saliva cheia de bactérias.",
+          "São excelentes nadadores e podem cruzar grandes distâncias de água."
+        ],
+        "imagem": "url_da_imagem_do_dragao_de_komodo.jpg"
+      },
+      {
+        "nome": "Iguana Verde",
+        "habitat": "América Central e do Sul",
+        "dieta": "Herbívoro",
+        "expectativa_de_vida": "10-20 anos",
+        "curiosidades": [
+          "Iguanas verdes são conhecidas por sua coloração vibrante e escamas.",
+          "Elas podem regular sua temperatura corporal tomando sol.",
+          "São escaladoras ágeis e podem subir em árvores facilmente."
+        ],
+        "imagem": "url_da_imagem_da_iguana_verde.jpg"
+      }
+    ]
+  }
+  
+  

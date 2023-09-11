@@ -1,0 +1,64 @@
+{
+  "mamiferos": [
+    {
+      "nome": "Leão",
+      "habitat": "Savana",
+      "dieta": "Carnívoro",
+      "expectativa_de_vida": "12-15 anos",
+      "curiosidades": [
+        "O leão é conhecido como o 'Rei da Selva'.",
+        "Eles vivem em grupos chamados de 'coalizões'.",
+        "Leões machos têm uma juba distintiva."
+      ],
+      "imagem": "url_da_imagem_do_leao.jpg"
+    },
+    {
+      "nome": "Tigre",
+      "habitat": "Floresta tropical",
+      "dieta": "Carnívoro",
+      "expectativa_de_vida": "10-15 anos",
+      "curiosidades": [
+        "O tigre é o maior felino do mundo.",
+        "Eles são conhecidos por suas listras distintivas.",
+        "Tigres são excelentes nadadores."
+      ],
+      "imagem": "url_da_imagem_do_tigre.jpg"
+    },
+    {
+      "nome": "Elefante",
+      "habitat": "Floresta e Savana",
+      "dieta": "Herbívoro",
+      "expectativa_de_vida": "60-70 anos",
+      "curiosidades": [
+        "Elefantes têm uma memória excepcional.",
+        "Eles são os maiores animais terrestres.",
+        "Elefantes vivem em grupos familiares chamados de 'manadas'."
+      ],
+      "imagem": "url_da_imagem_do_elefante.jpg"
+    },
+    {
+      "nome": "Girafa",
+      "habitat": "Savanas e florestas",
+      "dieta": "Herbívoro",
+      "expectativa_de_vida": "20-25 anos",
+      "curiosidades": [
+        "A girafa é o animal terrestre mais alto do mundo.",
+        "Elas têm pernas longas e pescoço comprido para alcançar folhas nas árvores.",
+        "As girafas vivem em grupos chamados de 'manadas'."
+      ],
+      "imagem": "url_da_imagem_da_girafa.jpg"
+    },
+    {
+      "nome": "Panda Gigante",
+      "habitat": "Florestas de bambu",
+      "dieta": "Herbívoro",
+      "expectativa_de_vida": "20-30 anos",
+      "curiosidades": [
+        "Os pandas gigantes são conhecidos por sua pelagem preta e branca.",
+        "São uma espécie em perigo de extinção.",
+        "Sua dieta consiste principalmente de bambu."
+      ],
+      "imagem": "url_da_imagem_do_panda.jpg"
+    }
+  ]
+}
