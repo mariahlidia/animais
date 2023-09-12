@@ -22,7 +22,7 @@
         "Eles são conhecidos por suas listras distintivas.",
         "Tigres são excelentes nadadores."
       ],
-      "imagem": "url_da_imagem_do_tigre.jpg"
+      "imagem": "url_da_imagem_do_tigre"
     },
     {
       "nome": "Elefante",
@@ -34,7 +34,7 @@
         "Eles são os maiores animais terrestres.",
         "Elefantes vivem em grupos familiares chamados de 'manadas'."
       ],
-      "imagem": "url_da_imagem_do_elefante.jpg"
+      "imagem": "url_da_imagem_do_elefante"
     },
     {
       "nome": "Girafa",
@@ -46,7 +46,7 @@
         "Elas têm pernas longas e pescoço comprido para alcançar folhas nas árvores.",
         "As girafas vivem em grupos chamados de 'manadas'."
       ],
-      "imagem": "url_da_imagem_da_girafa.jpg"
+      "imagem": "url_da_imagem_da_girafa"
     },
     {
       "nome": "Panda Gigante",
@@ -58,7 +58,7 @@
         "São uma espécie em perigo de extinção.",
         "Sua dieta consiste principalmente de bambu."
       ],
-      "imagem": "url_da_imagem_do_panda.jpg"
+      "imagem": "url_da_imagem_do_panda"
     }
   ],
   "repteis": [
@@ -72,7 +72,7 @@
         "Elas podem viver por muitas décadas.",
         "Tartarugas marinhas fazem migrações longas."
       ],
-      "imagem": "url_da_imagem_da_tartaruga.jpg"
+      "imagem": "url_da_imagem_da_tartaruga"
     },
     {
       "nome": "Cobra",
@@ -84,7 +84,7 @@
         "Algumas cobras são venenosas.",
         "Elas trocam de pele regularmente."
       ],
-      "imagem": "url_da_imagem_da_cobra.jpg"
+      "imagem": "url_da_imagem_da_cobra"
     },
     {
       "nome": "Lagarto",
@@ -96,7 +96,7 @@
         "Eles podem mudar de cor para se camuflar.",
         "Alguns lagartos são excelentes escaladores."
       ],
-      "imagem": "url_da_imagem_do_lagarto.jpg"
+      "imagem": "url_da_imagem_do_lagarto"
     }
   ],
   "anfibios": [
@@ -110,7 +110,7 @@
         "Eles são conhecidos por seu canto noturno.",
         "Sapos passam parte de suas vidas na água e parte em terra."
       ],
-      "imagem": "url_da_imagem_do_sapo.jpg"
+      "imagem": "url_da_imagem_do_sapo"
     },
     {
       "nome": "Salamandra",
@@ -122,7 +122,7 @@
         "Elas podem regenerar membros perdidos.",
         "Algumas salamandras são venenosas."
       ],
-      "imagem": "url_da_imagem_da_salamandra.jpg"
+      "imagem": "url_da_imagem_da_salamandra"
     },
     {
       "nome": "Axolote",
@@ -134,7 +134,7 @@
         "Eles têm uma aparência única com barbatanas externas.",
         "São conhecidos por sua capacidade de regeneração extraordinária."
       ],
-      "imagem": "url_da_imagem_do_axolote.jpg"
+      "imagem": "url_da_imagem_do_axolote"
     }
   ],
   "peixes": [
@@ -148,7 +148,7 @@
         "Eles são conhecidos por suas lutas agressivas entre machos.",
         "Bettas respiram oxigênio da superfície da água usando um órgão especial chamado labirinto."
       ],
-      "imagem": "url_da_imagem_do_betta.jpg"
+      "imagem": "url_da_imagem_do_betta"
     },
     {
       "nome": "Tubarão Martelo",
@@ -162,7 +162,7 @@
         "Eles são excelentes caçadores e nadadores ágeis.",
         "Esses tubarões são frequentemente vistos em águas tropicais ao redor do mundo."
       ],
-      "imagem": "url_da_imagem_do_tubarao_martelo.jpg"
+      "imagem": "url_da_imagem_do_tubarao_martelo"
     },
     {
       "nome": "Peixe-Palhaço",
@@ -174,7 +174,7 @@
         "Eles são famosos por sua aparência colorida e listrada.",
         "Esses peixes são protagonistas no filme de animação 'Procurando Nemo'."
       ],
-      "imagem": "url_da_imagem_do_peixe_palhaco.jpg"
+      "imagem": "url_da_imagem_do_peixe_palhaco"
     }
   ],
   "aves": [
@@ -188,7 +188,7 @@
         "Elas são conhecidas por suas garras afiadas e visão aguçada.",
         "Essas aves são símbolos de liberdade e poder."
       ],
-      "imagem": "url_da_imagem_da_aguia_careca.jpg"
+      "imagem": "url_da_imagem_da_aguia_careca"
     },
     {
       "nome": "Pinguim-imperador",
@@ -200,7 +200,7 @@
         "Eles são conhecidos por suas caminhadas longas para se alimentar no oceano.",
         "Esses pinguins têm uma vida social complexa e vivem em grandes colônias."
       ],
-      "imagem": "url_da_imagem_do_pinguim_imperador.jpg"
+      "imagem": "url_da_imagem_do_pinguim_imperador"
     },
     {
       "nome": "Tucano",
@@ -212,7 +212,7 @@
         "Eles se alimentam principalmente de frutas e pequenos insetos.",
         "São conhecidos por sua vocalização distintiva e chamativa."
       ],
-      "imagem": "url_da_imagem_do_tucano.jpg"
+      "imagem": "url_da_imagem_do_tucano"
     }
   ]
 }
