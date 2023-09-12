@@ -97,6 +97,30 @@
         "Alguns lagartos são excelentes escaladores."
       ],
       "imagem": "url_da_imagem_do_lagarto"
+    },
+    {
+      "nome": "Cágado",
+      "habitat": "Rios e lagos",
+      "dieta": "Omnívoro",
+      "expectativa_de_vida": "30-50 anos",
+      "curiosidades": [
+        "Cágados têm carapaças duras que os protegem.",
+        "Eles são ótimos nadadores.",
+        "Alguns cágados podem viver por várias décadas."
+      ],
+      "imagem": "url_da_imagem_do_cagado"
+    },
+    {
+      "nome": "Iguana",
+      "habitat": "Florestas tropicais e desertos",
+      "dieta": "Herbívoro",
+      "expectativa_de_vida": "15-20 anos",
+      "curiosidades": [
+        "Iguanas podem mudar de cor para se camuflar.",
+        "Elas têm uma dieta baseada em plantas.",
+        "Algumas iguanas têm espinhos afiados nas costas."
+      ],
+      "imagem": "url_da_imagem_da_iguana"
     }
   ],
   "anfibios": [
@@ -152,9 +176,7 @@
     },
     {
       "nome": "Tubarão Martelo",
-      "habitat":
-
- "Oceanos tropicais",
+      "habitat": "Oceanos tropicais",
       "dieta": "Carnívoro",
       "expectativa_de_vida": "20-30 anos",
       "curiosidades": [
@@ -175,6 +197,30 @@
         "Esses peixes são protagonistas no filme de animação 'Procurando Nemo'."
       ],
       "imagem": "url_da_imagem_do_peixe_palhaco"
+    },
+    {
+      "nome": "Peixe-Dourado",
+      "habitat": "Água doce",
+      "dieta": "Omnívoro",
+      "expectativa_de_vida": "15-20 anos",
+      "curiosidades": [
+        "Peixes-dourados são populares em aquários domésticos.",
+        "Eles têm uma coloração brilhante e dourada.",
+        "São resistentes e podem viver por vários anos."
+      ],
+      "imagem": "url_da_imagem_do_peixe_dourado"
+    },
+    {
+      "nome": "Arraia",
+      "habitat": "Oceanos tropicais",
+      "dieta": "Carnívoro",
+      "expectativa_de_vida": "20-25 anos",
+      "curiosidades": [
+        "Arraias têm formas planas e espinhos na cauda.",
+        "Elas são habilidosas nadadoras.",
+        "Algumas arraias têm padrões distintivos."
+      ],
+      "imagem": "url_da_imagem_da_arraia"
     }
   ],
   "aves": [
@@ -216,3 +262,4 @@
     }
   ]
 }
+
